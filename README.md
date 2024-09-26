@@ -13,6 +13,7 @@ In my context, lock-ins can limit the scope of choices, restricting my ability t
 
 Sources:
 Arthur, W. Brian. "Competing technologies, increasing returns, and lock-in by historical events." The Economic Journal (1989).
+
 Farrell, Joseph, and Garth Saloner. "Installed base and compatibility: Innovation, product preannouncements, and predation." The American Economic Review (1986).
 
 Task 2 :
