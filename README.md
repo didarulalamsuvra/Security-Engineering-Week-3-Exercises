@@ -12,8 +12,8 @@ Breaking free from either lock-in can lead to high switching costs. However, rem
 In my context, lock-ins can limit the scope of choices, restricting my ability to adjust to rapidly growing technologies.
 
 Sources:
-- Arthur, W. Brian. "Competing technologies, increasing returns, and lock-in by historical events." The Economic Journal (1989).
-- Farrell, Joseph, and Garth Saloner. "Installed base and compatibility: Innovation, product preannouncements, and predation." The American Economic Review (1986).
+Arthur, W. Brian. "Competing technologies, increasing returns, and lock-in by historical events." The Economic Journal (1989).
+Farrell, Joseph, and Garth Saloner. "Installed base and compatibility: Innovation, product preannouncements, and predation." The American Economic Review (1986).
 
 Task 2 :
 Phishing attacks exploit cognitive biases such as trust, urgency, and authority, making them effective. People rely on heuristics or mental shortcuts in decision-making, especially when under pressure or faced with seemingly legitimate requests. Phishing emails often imitate trusted brands or people. It triggers automatic responses without deep analysis. This taps into cognitive psychology, where users are prone to ignoring subtle clues like misspellings or incorrect URLs because they focus on the email’s content. Attackers also leverage behavioural psychology, using rewards or threats to produce quick, thoughtless actions, such as clicking a link or downloading an attachment.
